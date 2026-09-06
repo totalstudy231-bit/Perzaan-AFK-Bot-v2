@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Head1SMP.aternos.me:21896",
+    "ip": "Head1SMP.aternos.me",
     "port": 21896,
-    "version": "26.2"
+    "version": "1.21.1"
   },
   "position": {
     "enabled": true,
